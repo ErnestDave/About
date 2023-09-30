@@ -1,4 +1,4 @@
 - 👋 Bonjour, I’m @ErnestDave
 - 👀 I’m interested in User Research, Design Thinking, and Artificial Intelligence
 - 🌱 I’m currently mastering my skills in JS, and Python.
-- 💻
+- 💻 Portfolio link: dernest.myportfolio.com
