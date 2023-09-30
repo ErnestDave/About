@@ -1,5 +1,4 @@
 - 👋 Bonjour, I’m @ErnestDave
-- 👀 I’m interested in Machine learning, and Artificial Intelligence
-- 🌱 I’m currently mastering my skills in C Programming, Java, Ruby, SQL, JS, Python, and much more.
-- 💞️ I’m looking to collaborate on projects with people from all over the world.
-- 📫 You can reach me at SGdaveernest@gmail.com
+- 👀 I’m interested in User Research, Design Thinking, and Artificial Intelligence
+- 🌱 I’m currently mastering my skills in JS, and Python.
+- 💻
